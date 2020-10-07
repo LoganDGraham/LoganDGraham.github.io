@@ -14,8 +14,10 @@ Welcome to my personal homepage! Throughout this website, I collect my thoughts 
 From my views on mathematics, finance, computer science, and programming to my ruminations on the books I've read, I've designed this website as a collection to be shared. Respectful, responsible use of the content that I post is encouraged, as long as proper attribution is provided (i.e., don't forget to cite me!). I hope that you enjoy consuming my content as much as I enjoy creating it.
 
 ## CV
+![Logan's CV](/files/LoganCV.pdf)
 
 ## Resume
+![Logan's Resume](/files/LoganResume.pdf)
 
 ## Bio
 A Ph.D. candidate, I'm currently in my fourth year of graduate study at Stony Brook University. To put it succinctly, I am a mathematician working in theoretical computer science. Among many topics on which I work, my favorite areas of study include algorithmic game theory, complexity theory, computational geometry, and graph theory. Often, my work in these areas of study involves optimization. That is, I seek ways to achieve an objective most efficiently, e.g., minimizing cost, maximizing expected return, minimizing risk, minimizing run-time, etc. As a mathematician, I prioritize rigor and proof. My currencies are logic, reasoning, and well-justified arguments. Most importantly, I work hard to ask the right questions, for I see thoughtful question-asking as perhaps the highest-leverage use of time, expertise, and intellect when conducting research and developing new theory. My love of mathematics is most certainly not restricted to theorem-proving: one of my deepest passions is programming computers to implement the theory I so adore.
