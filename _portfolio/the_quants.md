@@ -4,7 +4,7 @@ excerpt: "Scott Patterson <br/><img src='/images/the_quants.jpg' width='300' hei
 collection: portfolio
 ---
 
-<img src='/images/the_quants.jpg' width='300' height='500'>"
+<img src='/images/the_quants.jpg' width='300' height='500'>
 
 ## What it's about
 A wonderful introduction to the culture of quantitative trading on Wall Street, Scott Patterson's, The Quants, takes a personal approach when chronicling events from the late 20th century up to and including the Global Financial Crisis of 2007-2009.
