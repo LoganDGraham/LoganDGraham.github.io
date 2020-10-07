@@ -1,6 +1,6 @@
 ---
 title: "The Quants"
-excerpt: "Scott Patterson <br/><img src='/images/the_quants.jpg' width='300' height='500'>""
+excerpt: "Scott Patterson <br/><img src='/images/the_quants.jpg' width='300' height='500'>"
 collection: portfolio
 ---
 
