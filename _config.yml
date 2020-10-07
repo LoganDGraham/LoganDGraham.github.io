@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  about:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -184,10 +184,15 @@ collections:
   reading:
     output: true
     permalink: /:collection/:path/
-  talks:
+  mathematics:
     output: true
     permalink: /:collection/:path/
-
+  finance:
+    output: true
+    permalink: /:collection/:path/
+  code:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -199,8 +204,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
       share: true
+      # comments: true
       related: true
   # _pages
   - scope:
@@ -209,15 +214,14 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _mathematics
   - scope:
       path: ""
-      type: teaching
+      type: mathematics
     values:
       layout: single
       author_profile: true
       share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -226,7 +230,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
   # _reading
   - scope:
       path: ""
@@ -236,12 +239,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _finance
   - scope:
       path: ""
-      type: talks
+      type: finance
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
@@ -255,7 +258,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
