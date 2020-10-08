@@ -1,6 +1,9 @@
 ---
 title: "The Quants"
-excerpt: "Scott Patterson (2010) <br/><img src='/images/the_quants.jpg' width='300' height='500'>"
+excerpt: "Scott Patterson (2010) <br/>
+<a href='https://logandgraham.github.io/portfolio/the_quants/'>
+  <img src='/images/the_quants.jpg' width='300' height='500'>
+</a>"
 collection: portfolio
 ---
 
