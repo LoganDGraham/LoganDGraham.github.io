@@ -35,7 +35,7 @@ Finally, another of Patterson's theses is the claim that the financial engineeri
 * Peter Muller (Process Driven Trading (PDT)), a hedge fund under the umbrella of Goldman Sachs focusing on statistical arbitrage techniques; Muller began his career at BARRA.
 * Cliff Asness (Applied Quantitative Research (AQR)), a hedge fund implementing fundamental strategies such as those related to the work of Fama and French; Asness studied at Chicago under Eugene Fama before beginning his career at Goldman Sachs.
 * Jim Thorp, the originator of the application of advanced quantitative strategies on Wall Street; Thorp wrote *Beat the Dealer* and *Beat the Market* and begun his investment career pricing warrants and trading convertible bonds.  Thorp later ventured into statistical arbitrage.
-* Boaz Weinstein--a specialist in credit derivatives including credit default swaps and collateralized debt obligations, Weinstein became a very valuable trader for Morgan Stanley and started his own fund, Saba, focusing on such trades.
+* Boaz Weinstein, a specialist in credit derivatives including credit default swaps and collateralized debt obligations, Weinstein became a very valuable trader for Morgan Stanley and started his own fund, Saba, focusing on such trades.
 
 ## Final thoughts
 Scott Patterson's *The Quants* is an excellent glimpse into the career trajectories of notable quantitatively orientated investors and traders such as Jim Simons, Cliff Asness, Peter Muller, Aaron Brown, Boaz Weinstein, Ed Thorp, and Ken Griffin.  Its tone is enthusiastic, energetic, and unbiased, while its theses are (mostly) well supported by reason and anecdote, and its narrative is flawless.
