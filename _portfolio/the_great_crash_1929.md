@@ -1,10 +1,10 @@
 ---
 title: "The Great Crash, 1929"
-excerpt: "John Kenneth Galbraith (2009) <br/> [![The Great Crash, 1929](../images/the_great_crash_1929.jpg)](https://logandgraham.github.io/portfolio/the_great_crash_1929/)
+excerpt: "John Kenneth Galbraith (2009) <br/> [<img src="../images/the_great_crash_1929.jpg" width="300" height="500">](https://logandgraham.github.io/portfolio/the_great_crash_1929/)
 collection: portfolio
 ---
 
-![The Great Crash, 1929](../images/the_great_crash_1929.jpg)
+[<img src="../images/the_great_crash_1929.jpg" width="300" height="500">]
 
 ## An excellent historical account
 Galbraith's flowing, clear history focuses on the events that transpired in 1929, including the climax of the devastating financial markets crash, which took place in late October. The material herein is presented from a historical perspective, rather than an economics perspective--discussions of the economics behind the crash are offered in qualitative settings; this is not substantive economics, complete with precise statements derived from a solid analytical foundation.
