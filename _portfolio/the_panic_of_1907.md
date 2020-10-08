@@ -1,6 +1,9 @@
 ---
 title: "The Panic of 1907"
-excerpt: "Robert T. Bruner and Sean D. Carr (2007) <br/><img src='/images/panic_of_1907.jpg' width='300' height='500'>"
+excerpt: "Robert T. Bruner and Sean D. Carr (2007) <br/>
+<a href='https://logandgraham.github.io/portfolio/the_panic_of_1907/'>
+  <img src='/images/panic_of_1907.jpg' width='300' height='500'>
+</a>"
 collection: portfolio
 ---
 
