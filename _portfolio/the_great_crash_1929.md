@@ -1,9 +1,7 @@
 ---
 title: "The Great Crash, 1929"
 excerpt: "John Kenneth Galbraith (2009) <br/>
-<a href="https://logandgraham.github.io/portfolio/the_great_crash_1929/">
-  <img src="../images/the_great_crash_1929.jpg" width="300" height="500">
-</a>
+ <img src="../images/the_great_crash_1929.jpg" width="300" height="500">
 collection: portfolio
 ---
 
