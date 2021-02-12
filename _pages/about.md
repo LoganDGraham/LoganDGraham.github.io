@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "Home"
+title: "About Me"
 excerpt: "Welcome!"
 author_profile: true
 redirect_from: 
-  - /home/
-  - /home.html
+  - /about/
+  - /about.html
 ---
 
 ## Welcome
